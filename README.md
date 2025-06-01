@@ -4,8 +4,8 @@ Jimmy Bowcott 🐼
 Software Engineer
 -----------------
 
-*   🌍  I'm based in the UK
-*   🧠  I'm learning backend systems
+*   🌍  Based in the UK
+*   🧠  Currently learning backend systems
 *   ⚡  Vim enthusiast
 
 ### Skills 
